@@ -1,10 +1,9 @@
 /* tumblr */
 
 #dashboard_index .sponsored_post { display:none; }
+#tumblr_radar .premium { display:none; }
 
 /* flickr */
 
-#yucs-top-bar { 
-	display: none !important;
-	}
+#yucs-top-bar { display: none !important; }
 #global-nav { top: 0 !important; }
