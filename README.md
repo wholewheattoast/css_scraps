@@ -3,7 +3,7 @@ css_scraps
 
 # Custom CSS scraps
 
-So far mostly to de-crapify Flickr's YUK bar, and The excessive advertising on Tumblr.
+So far mostly to de-crapify Flickr's YUK bar, and excessive advertising on Tumblr.
 
 To install download the [ZIP File](https://github.com/wholewheattoast/css_scraps/archive/master.zip) or clone
 
