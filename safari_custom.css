@@ -1,10 +1,17 @@
 /* tumblr */
 
 #dashboard_index .sponsored_post { display:none !important; }
+
 .sponsored_post { display: none !important; }
-#tumblr_radar, #tumblr_radar .premium { display:none !important; }
-.premium {display: none !important;}
-.is_note { display: none !important;}
+
+#tumblr_radar,
+#tumblr_radar .premium { display:none !important; }
+
+.premium {display: none !important; }
+
+.is_note { display: none !important; }
+
+.post_container .is_recommended { display: none !important; }
 
 /* flickr */
 
