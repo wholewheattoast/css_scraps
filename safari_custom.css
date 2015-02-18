@@ -5,9 +5,11 @@
 #tumblr_radar .premium,
 .is_note,
 .mb_tracked,
+.new-gemini-dash-ads,
 .premium,
 .post_container .is_recommended,
 .remnant-unit-container,
+.remnant_ad,
 .sponsored_post { display:none !important; }
 
 /* flickr */
